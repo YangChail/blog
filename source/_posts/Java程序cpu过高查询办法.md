@@ -15,7 +15,7 @@ top -u capaa
 ```
 ![这里写图片描述](http://img.blog.csdn.net/20170330223833593?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzMxMDAyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-
+<!-- more -->
 ----------
 查询进程里面的线程id,以及cpu使用率和线程运行时间
 ```
