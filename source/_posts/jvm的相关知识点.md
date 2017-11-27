@@ -2,6 +2,7 @@
 title: jvm 知识点
 date: 2017-04-17 21:08:13
 tags: java
+cover: /img/java.jpg
 ---
 
 

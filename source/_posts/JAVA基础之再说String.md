@@ -2,6 +2,8 @@
 title: JAVA基础之再说String
 date: 2017-07-20 22:08:13
 tags: java
+cover: /img/String.jpg
+categories: 学习
 ---
 
 # String

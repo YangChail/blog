@@ -33,10 +33,10 @@ logo: /img/logo.png
 # qrcode: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png
 
 # 文章的默认封面
-default_cover: http://oo12ugek5.bkt.clouddn.com/images/default_cover.png
+default_cover: /img/default_img.jpg
 
 # header 的背景图
-header_cover: http://oo12ugek5.bkt.clouddn.com/blog/images/banner-bg.jpg
+header_cover: http://p02zeesho.bkt.clouddn.com/02
 
 # 404 页面的背景图
 error_page_bg: http://oo12ugek5.bkt.clouddn.com/blog/images/dogs.jpg
@@ -123,7 +123,7 @@ theme: hexo-theme-skapp
 # Sass
 node_sass:
   outputStyle: nested
-  precision: 5
+  precision: 9
   sourceComments: false
 
 # Autoprefixer

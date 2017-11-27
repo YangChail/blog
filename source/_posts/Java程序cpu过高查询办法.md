@@ -2,6 +2,7 @@
 title: Java程序cpu过高查询办法
 date: 2017-04-11 15:08:13
 tags: java
+cover: /img/cpu.jpg
 ---
 最近开发Java 高并发的项目时，部署发现程序cpu过高，通过查询资料给出下面解决办法
 

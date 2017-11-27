@@ -2,6 +2,7 @@
 title: Hbase 1.2.5 安装部署
 date: 2017-05-02 22:08:13
 tags: hadoop,hbase,数据库
+cover: /img/hbase.jpg
 ---
 
 #一、安装zookeeper

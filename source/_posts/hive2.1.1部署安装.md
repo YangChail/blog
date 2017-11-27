@@ -2,6 +2,7 @@
 title: hive 2.1.1 部署安装
 date: 2017-04-20 21:08:13
 tags: hadoop hive
+cover: /img/hive.jpg
 ---
 
 安装hive 之前，要保证hadoop安装成功，本教程对应的是hadoop版本为2.6.4,hive 版本为 2.1.1，默认情况下，Hive元数据保存在内嵌的 Derby 数据库中，只能允许一个会话连接，只适合简单的测试。为了支持多用户多会话，则需要一个独立的元数据库，我们使用 MySQL 作为元数据库
