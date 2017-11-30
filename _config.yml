@@ -78,8 +78,8 @@ skip_render:
 menu:
   home: / 
   archive: /archives
+  record: /record
   about: /about
-
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
